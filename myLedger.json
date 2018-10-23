@@ -1,0 +1,144 @@
+{
+    "chain": [
+        {
+            "index": 0,
+            "entryTimestamp": "1/1/2018",
+            "data": "0",
+            "details": "Genesis Bloq",
+            "previousHash": "",
+            "hash": "84b59a42f98038f1a0d26bdf9d8d41f6f3ae014c51198b470976164036f5d8ef"
+        },
+        {
+            "index": 1,
+            "entryTimestamp": "29/1/2018",
+            "details": {
+                "purchase": "Fish Oil",
+                "amount": 210,
+                "spendTimestamp": "24/1/2017"
+            },
+            "previousHash": "84b59a42f98038f1a0d26bdf9d8d41f6f3ae014c51198b470976164036f5d8ef",
+            "hash": "8460122b7d83e2956a6cf4afaed250d291374b92c1a1598031e2d860e1b79c97"
+        },
+        {
+            "index": 2,
+            "entryTimestamp": "29/1/2018",
+            "details": {
+                "purchase": "Pastries and Teethcare",
+                "amount": 20,
+                "spendTimestamp": "24/1/2017"
+            },
+            "previousHash": "8460122b7d83e2956a6cf4afaed250d291374b92c1a1598031e2d860e1b79c97",
+            "hash": "c146e4b227ad9605e3ac3a936a7ee8a52d6873f68aa4216284b7699235f537b4"
+        },
+        {
+            "index": 3,
+            "entryTimestamp": "29/1/2018",
+            "details": {
+                "purchase": "Water and Breakfast",
+                "amount": 10,
+                "spendTimestamp": "25/1/2017"
+            },
+            "previousHash": "c146e4b227ad9605e3ac3a936a7ee8a52d6873f68aa4216284b7699235f537b4",
+            "hash": "f95cdf19d04bcef097d01202a2c6ebad93f182e00226aa2580d9baa5fb99965d"
+        },
+        {
+            "index": 4,
+            "entryTimestamp": "29/1/2018",
+            "details": {
+                "purchase": "Pizza and Pastries",
+                "amount": 40,
+                "spendTimestamp": "25/1/2017"
+            },
+            "previousHash": "f95cdf19d04bcef097d01202a2c6ebad93f182e00226aa2580d9baa5fb99965d",
+            "hash": "8f7c865be59c6e71f724828f7fe86801e77d81c1a88bb240b8e3319d9f202327"
+        },
+        {
+            "index": 5,
+            "entryTimestamp": "29/1/2018",
+            "details": {
+                "purchase": "Friday Snackems & Misc",
+                "amount": 10,
+                "spendTimestamp": "26/1/2017"
+            },
+            "previousHash": "8f7c865be59c6e71f724828f7fe86801e77d81c1a88bb240b8e3319d9f202327",
+            "hash": "f7668848f6827bd503146cc0a868eb86106acaa867fd42ee2a9bc684f1588903"
+        },
+        {
+            "index": 6,
+            "entryTimestamp": "29/1/2018",
+            "details": {
+                "purchase": "Tribute + Food On Movie Day",
+                "amount": 60,
+                "spendTimestamp": "27/1/2017"
+            },
+            "previousHash": "f7668848f6827bd503146cc0a868eb86106acaa867fd42ee2a9bc684f1588903",
+            "hash": "a8df0ea56abc3ca231e613cd6a42bc3644b7d845861458182e2d7e3c72d2d7e5"
+        },
+        {
+            "index": 7,
+            "entryTimestamp": "30/1/2018",
+            "details": {
+                "purchase": "Pre Debate Refreshments",
+                "amount": 9,
+                "spendTimestamp": "29/1/2017"
+            },
+            "previousHash": "a8df0ea56abc3ca231e613cd6a42bc3644b7d845861458182e2d7e3c72d2d7e5",
+            "hash": "1a4e1eb4bf666fe61963607d4fad9bd5e1ad397cea426e67a8820c74ff06d824"
+        },
+        {
+            "index": 8,
+            "entryTimestamp": "30/1/2018",
+            "details": {
+                "purchase": "Bread and Butter Dinner",
+                "amount": 12,
+                "spendTimestamp": "29/1/2017"
+            },
+            "previousHash": "1a4e1eb4bf666fe61963607d4fad9bd5e1ad397cea426e67a8820c74ff06d824",
+            "hash": "d9e133b4eaf6624545a148d3f1407b0d135c2076beb1104a8d17c1793f25ea4f"
+        },
+        {
+            "index": 9,
+            "entryTimestamp": "30/1/2018",
+            "details": {
+                "purchase": "Janvier Rent",
+                "amount": 1050,
+                "spendTimestamp": "29/1/2017"
+            },
+            "previousHash": "d9e133b4eaf6624545a148d3f1407b0d135c2076beb1104a8d17c1793f25ea4f",
+            "hash": "0900759ce4d9c63d95b2e1f2f6b52aeb8f0e664beee804ee4b5064807b393876"
+        },
+        {
+            "index": 10,
+            "entryTimestamp": "30/1/2018",
+            "details": {
+                "purchase": "Tesla Plasma Ball",
+                "amount": 32,
+                "spendTimestamp": "30/1/2017"
+            },
+            "previousHash": "0900759ce4d9c63d95b2e1f2f6b52aeb8f0e664beee804ee4b5064807b393876",
+            "hash": "bef672b6ae75a059dc082d851409c784f8ef2e8794bdeab699cc23a3fa072545"
+        },
+        {
+            "index": 10,
+            "entryTimestamp": "27/7/2018",
+            "details": {
+                "purchase": "breakfast",
+                "amount": 10,
+                "spendTimestamp": "27/7/2018"
+            },
+            "previousHash": "bef672b6ae75a059dc082d851409c784f8ef2e8794bdeab699cc23a3fa072545",
+            "hash": "8a60014df8464f9eb98476681a0e61d58299b37a9215f052216038a3cbc9ab67"
+        },
+        {
+            "index": 10,
+            "entryTimestamp": "20/7/2018",
+            "details": {
+                "purchase": "Pants",
+                "amount": 60,
+                "spendTimestamp": "26/7/2018"
+            },
+            "previousHash": "8a60014df8464f9eb98476681a0e61d58299b37a9215f052216038a3cbc9ab67",
+            "hash": "501b04d240d79489387f4df437748f2401e202817e1bfe9d44af1429d875c598"
+        }
+    ]
+}

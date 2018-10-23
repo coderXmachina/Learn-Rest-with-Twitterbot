@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+        }
+
+        /* Create three equal columns that floats next to each other */
+        /* This defines the element*/
+        .column {
+            float: left;
+            width: 33.33%;
+            padding: 10px;
+            height: 300px; /* Should be removed. Only for demonstration */
+        }
+
+        /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .city {
+            background-color: tomato;
+            color: white;
+            padding: 10px;
+            text-orientation: sideways;
+        }
+    </style>
+
+    <!-- included in the HTML file <script type="text/javascript" src="talkToMe.js"></script>  -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <title>TMRND Network Security Newsletter</title>
+
+</head>
+
+<body>
+
+<header>
+
+    <!-- This is the content of the head-->
+    <div align="center">
+        <h1><font size = "32">TMRND Network Security Newsletter</font></h1>
+    </div>
+
+</header>
+
+<p><b><nobr>Latest News On Network Security</nobr></b></p>
+
+<script src="external.js"></script>
+
+<p id="theDate"></p>
+
+<div class="row"> <!-- 3 columns-->
+    <div class="column" style="background-color:blue;">
+
+        <h2>Viva</h2>
+        <h3 class="city">London</h3>
+        <p>London is the capital of England.</p>
+
+    </div>
+
+    <div class="column" style="background-color:whitesmoke;">
+
+        <h2>La</h2>
+        <h3 class="city" style="background-color:yellow">Berlin</h3>
+        <p>Belin is the capital of the world.</p>
+
+    </div>
+
+    <div class="column" style="background-color:red;">
+
+        <h2>France</h2>
+        <h3 class="city" style="background-color:purple">Paris</h3>
+        <p>Paris is the capital of France.</p>
+
+    </div>
+</div>
+
+<p> <br> <br> </p>
+
+<div class="row">
+
+    <div class="column" style="background-color:blue;">
+
+        <h2>Viva</h2>
+        <h3 class="city">London</h3>
+        <p>London is the capital of England.</p>
+
+    </div>
+
+    <div class="column" style="background-color:whitesmoke;">
+
+        <h2>La</h2>
+        <h3 class="city" style="background-color:yellow">Berlin</h3>
+        <p>Belin is the capital of the world.</p>
+
+    </div>
+
+    <div class="column" style="background-color:red;">
+
+        <h2>France</h2>
+        <h3 class="city" style="background-color:purple">Paris</h3>
+        <p>Paris is the capital of France.</p>
+
+    </div>
+
+</div>
+
+</body>
+
+
+<footer>
+    <script type="text/javascriipt" src="talkToMe.js">
+    </script>
+</footer>
+
+
+</html>
